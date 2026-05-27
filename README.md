@@ -24,7 +24,7 @@ A fully functional two-player Tic-Tac-Toe game built in Python with a graphical 
  
 **Languages:** Python, R, SQL  
 **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
-**Tools:** Jupyter Notebook, Git, GitHub, Spyder 
+**Tools:** Jupyter Notebook, Git, GitHub, Spyder  
 **Methods:** Exploratory Data Analysis, Regression Modeling, Feature Engineering, Data Visualization
  
 ---
