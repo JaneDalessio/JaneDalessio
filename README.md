@@ -30,8 +30,7 @@ A fully functional two-player Tic-Tac-Toe game built in Python with a graphical 
 ---
  
 ## 📫 Connect
- 
-[![LinkedIn](https://www.linkedin.com/in/jane-dalessio-786b32332/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jane-dalessio-786b32332/)[![LinkedIn](https://www.linkedin.com/in/jane-dalessio-786b32332/)
  
 ---
  
