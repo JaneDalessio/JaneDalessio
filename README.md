@@ -6,15 +6,15 @@ I'm a **Data Analytics major at Dickinson College** with a passion for finding p
  
 ## 🗂️ Projects
  
-### 🚲 [Assessing Regression Models for Bike Share Demand in Seoul](https://github.com/JaneDalessio/Data-300-Final)
+### 🚲 [Assessing Regression Models for Bike Share Demand in Seoul](https://github.com/JaneDalessio/Bike-Share-Regression-Analysis)
 Compared six regression models (OLS, KNN, Ridge, SGD, Lasso, Elastic Net) to predict hourly bike-sharing demand in Seoul using weather, seasonal, and temporal features. Built an end-to-end pipeline with feature engineering, lag variables, and time-series cross-validation. Elastic Net achieved the best performance with a test R² of 0.866.
 `Python` `scikit-learn` `pandas` `Jupyter`
  
-### 🎵 [Spotify Top Songs — Exploratory Data Analysis](https://github.com/JaneDalessio/spotify-data-analysis) 
-Explored the Top Spotify Songs of 2023 dataset to uncover patterns across musical features like danceability, energy, and speechiness. Identified a trend toward higher speechiness in more recent releases, suggesting a rise in rap and spoken-word influenced music.
+### 🎵 [Spotify Top Songs — Exploratory Data Analysis](https://github.com/JaneDalessio/Spotify-API-Analysis) 
+This project uses the Spotify Web API to enrich an existing dataset of the Top Spotify Songs of 2023 with two new variables: track popularity and song duration, both pulled live from the API. The enriched dataset is then merged with the original and used to explore how popularity and song length relate to streaming performance and release trends over time.
 `Python` `pandas` `matplotlib` `Jupyter`
  
-### 🎮 [Tic-Tac-Toe — Python Game](https://github.com/JaneDalessio/tic-tac-toe-python) 
+### 🎮 [Tic-Tac-Toe — Python Game](https://github.com/JaneDalessio/Tic-Tac-Toe-Python) 
 A fully functional two-player Tic-Tac-Toe game built in Python with a graphical interface using `graphics.py`. Features mouse-based input, win detection, and input validation.
 `Python` `graphics.py`
  
