@@ -24,14 +24,14 @@ A fully functional two-player Tic-Tac-Toe game built in Python with a graphical 
  
 **Languages:** Python, R, SQL  
 **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn  
-**Tools:** Jupyter Notebook, Git, GitHub, VS Code  
+**Tools:** Jupyter Notebook, Git, GitHub, Spyder 
 **Methods:** Exploratory Data Analysis, Regression Modeling, Feature Engineering, Data Visualization
  
 ---
  
 ## 📫 Connect
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janedalessio)
+[![LinkedIn](https://www.linkedin.com/in/jane-dalessio/)
  
 ---
  
